@@ -39,8 +39,13 @@
 
 Доп задание :
 apt install python3.8
+
 cd/home
+
 touch hel.py
+
 vim hel.py
+
 chmod 777 hel.py
+
 .\hel.py
